@@ -1,1 +1,2 @@
 Project initialized
+Added more config
